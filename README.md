@@ -1,2 +1,4 @@
 # Java Progress
-
+This repository is my personal progress tracker for my journey of learning Java programming. I created it to maintain a structured record of the concepts, programs, practice problems, and projects I complete while improving my Java skills.
+The repository will be updated regularly as I continue learning, starting from the fundamentals of Java and gradually moving toward more advanced topics and ultimately reaching the phase where i can solve Data Structures and Algorithms, grind Leetcode and implementing System Design to it.
+My goal is to use this repository as proof of my consistency and growth throughout my learning journey. By documenting my progress, I can look back at what I have learned, identify areas where I need improvement, and stay motivated to continue working toward my goal of becoming a skilled software engineer.
